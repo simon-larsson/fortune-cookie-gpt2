@@ -1,6 +1,6 @@
 # Fortune Cookie GPT2
 
-In these trying times the future feels very unclear. So I combined the power of fortune cookies and GPT2 to get a sense of what the future has in store for me. The results left with a better outlook and I hope it can do the same for you! :)
+In these trying times the future feels very unclear. So I combined the power of fortune cookies and GPT2 to get a sense of what the future has in store for me. The results left me with a better outlook and I hope it can do the same for you! :)
 
 | Requirements |
 | ------ |
