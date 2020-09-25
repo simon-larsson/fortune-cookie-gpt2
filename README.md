@@ -12,7 +12,7 @@ In these trying times the future feels very unclear. So I combined the power of 
 
 [Easy GPT2 wrapper](https://github.com/simon-larsson/fortune-cookie-gpt2/blob/master/demo_notebook.ipynb)
 
-| :fortune Sample fortunes |
+| Sample fortunes |
 | ------ | 
 |It really does not matter which direction you are traveling from if you move ahead.|
 |Life is short. Eat your cake! |
