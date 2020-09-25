@@ -10,7 +10,7 @@ In these trying times the future feels very unclear. So I combined the power of 
 
 [Demo notebook](https://github.com/simon-larsson/fortune-cookie-gpt2/blob/master/demo_notebook.ipynb)
 
-[Easy GPT2 wrapper](https://github.com/simon-larsson/fortune-cookie-gpt2/blob/master/demo_notebook.ipynb)
+[Easy GPT2 wrapper](https://github.com/simon-larsson/fortune-cookie-gpt2/blob/master/easy_gpt2.py)
 
 | Sample fortunes |
 | ------ | 
