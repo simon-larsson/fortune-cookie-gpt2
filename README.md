@@ -1,4 +1,4 @@
-# Fortune Cookie GPT2
+# Fortune Cookie GPT2 :fortune_cookie:
 
 In these trying times the future feels very unclear. So I combined the power of fortune cookies and GPT2 to get a sense of what the future has in store for me. The results left me with a better outlook and I hope it can do the same for you! :)
 
@@ -12,7 +12,7 @@ In these trying times the future feels very unclear. So I combined the power of 
 
 [Easy GPT2 wrapper](https://github.com/simon-larsson/fortune-cookie-gpt2/blob/master/demo_notebook.ipynb)
 
-| Sample fortunes |
+| :fortune Sample fortunes |
 | ------ | 
 |It really does not matter which direction you are traveling from if you move ahead.|
 |Life is short. Eat your cake! |
