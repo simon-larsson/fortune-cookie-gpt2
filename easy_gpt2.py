@@ -73,14 +73,14 @@ class EasyGPT2:
 
             print(f"Training loss: {sum_loss / len(train_loader)}")
 
-    def generate(self, prompt=None, max_length=200):
+    def generate(self, prompt=None, max_length=200, min_length=None):
 
         if not prompt:
             prompt = random.choice(self.texts) + self.eos
 
         prompt_tokens = self.tokenizer.encode(prompt, return_tensors='pt')
 
-        gen_tokens = self.model.generate(prompt_tokens.cuda(), do_sample=True, max_length=1000, top_k=50)[0]
+        gen_tokens = self.model.generate(prompt_tokens.cuda(), do_sample=True, min_length=min_length, max_length=max_length, top_k=50)[0]
 
         gen_text = self.tokenizer.decode(gen_tokens, skip_special_tokens=True)
 
